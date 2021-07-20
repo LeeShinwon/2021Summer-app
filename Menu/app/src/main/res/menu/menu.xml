@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Option1"
+        android:id="@+id/item_option1"
+        app:showAsAction="never"/>
+    <item android:title="Option2"
+        android:id="@+id/item_option2"
+        app:showAsAction="never"/>
+    <item android:title="Option3"
+        android:id="@+id/item_option3"
+        app:showAsAction="never" />
+    <item android:title="Item"
+        android:id="@+id/item_cloudUpload"
+        android:icon="@drawable/ic_action_name"
+        app:showAsAction="always"/>
+
+
+</menu>
