@@ -4,9 +4,9 @@
 <br> 기능별로 연습해본 프로젝트 모아 둠</br>
 <br></br>
   +  [Button](https://github.com/LeeShinwon/2021Summer-app/tree/main/Button)		
-<br>Menu	</br>
+  + [Menu](https://github.com/LeeShinwon/2021Summer-app/tree/main/Menu)
 <br>list</br>
-<br>[send](https://github.com/LeeShinwon/2021Summer-app/tree/main/send)</br>
+  + [send](https://github.com/LeeShinwon/2021Summer-app/tree/main/send)
 
 
 <br>Dialogbox		</br>
